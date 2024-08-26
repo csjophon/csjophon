@@ -4,8 +4,6 @@ My name is Jory Joestar, If you have seen "JoJo's Bizarre Adventure," you know w
 
 <img src="https://komarev.com/ghpvc/?username=JoryJoestar&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 
-<a href="https://wakatime.com/@900b64b5-3375-4ec2-b743-0ea15c990b37"><img src="https://wakatime.com/badge/user/900b64b5-3375-4ec2-b743-0ea15c990b37.svg?style=social" alt="Total time coded since Mar 22 2023" /></a>
-
 <picture>
   <source
     srcset="https://github-readme-stats-au6v.vercel.app/api?username=JoryJoestar&count_private=true&show_icons=true"
