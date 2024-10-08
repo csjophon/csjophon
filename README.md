@@ -20,4 +20,12 @@ My name is Jory Joestar, If you have seen "JoJo's Bizarre Adventure," you know w
 
 
 <!--START_SECTION:waka-->
+
+```txt
+Dart       10 hrs 26 mins  ███████████████████▓░░░░░   78.13 %
+Markdown   2 hrs 24 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.07 %
+Vue.js     30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
+JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+```
+
 <!--END_SECTION:waka-->
