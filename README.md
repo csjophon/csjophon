@@ -4,9 +4,6 @@ My name is Jory Joestar, If you have seen "JoJo's Bizarre Adventure," you know w
 
 <img src="https://komarev.com/ghpvc/?username=JoryJoestar&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=JoryJoestar&show_icons=true&theme=dark)
-
-
 <picture>
   <source
     srcset="https://github-readme-stats-au6v.vercel.app/api?username=JoryJoestar&count_private=true&show_icons=true"
