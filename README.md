@@ -32,5 +32,5 @@ JSON       0 secs          ░░░░░░░░░░░░░░░░░�
     srcset="https://github-readme-stats-au6v.vercel.app/api?username=JoryJoestar&count_private=true&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats-au6v.vercel.app/api?username=JoryJoestar&count_private=true&show_icons=true&hide_rank=true" align=right  alt="stats"/>
+  <img src="https://github-readme-stats-au6v.vercel.app/api?username=JoryJoestar&count_private=true&show_icons=true&hide_rank=true" alt="stats"/>
 </picture>
