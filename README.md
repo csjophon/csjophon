@@ -27,11 +27,11 @@ My name is Jory Joestar, If you have seen "JoJo's Bizarre Adventure," you know w
 <!--START_SECTION:waka-->
 
 ```txt
-Python       5 hrs 24 mins   ██████████████▒░░░░░░░░░░   57.76 %
-HTML         2 hrs 40 mins   ███████░░░░░░░░░░░░░░░░░░   28.54 %
-JSON         24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
-TypeScript   17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
-JavaScript   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+Python       5 hrs 39 mins   ████████████░░░░░░░░░░░░░   48.15 %
+HTML         2 hrs 40 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.76 %
+TypeScript   1 hr 34 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.37 %
+Vue.js       1 hr 8 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.77 %
+JSON         24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
 ```
 
 <!--END_SECTION:waka-->
