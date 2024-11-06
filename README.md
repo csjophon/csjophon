@@ -27,11 +27,11 @@ My name is Rich Wilds as known as r1childs.
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js        10 hrs 10 mins  ███████████████▓░░░░░░░░░   62.59 %
-Python        3 hrs 45 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.16 %
-TypeScript    1 hr 29 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 %
-HTML          36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
-JSON          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+Vue.js        9 hrs 36 mins   ████████████████▒░░░░░░░░   65.83 %
+Python        3 hrs 28 mins   ██████░░░░░░░░░░░░░░░░░░░   23.85 %
+TypeScript    1 hr 17 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 %
+JSON          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+CSV           2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
