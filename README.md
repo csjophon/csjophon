@@ -27,11 +27,11 @@ My name is Rich Wilds as known as r1childs.
 <!--START_SECTION:waka-->
 
 ```txt
-Text       11 hrs 23 mins  ████████████████▓░░░░░░░░   66.66 %
-HTML       3 hrs 49 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.38 %
-Python     53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
-Other      46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
-Bash       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+Text       11 hrs 36 mins  ██████████████░░░░░░░░░░░   56.56 %
+HTML       5 hrs 27 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.60 %
+Python     2 hrs 28 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.05 %
+Other      46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
+Bash       6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 ```
 
 <!--END_SECTION:waka-->
