@@ -27,8 +27,8 @@ My name is Rich Wilds as known as r1childs.
 <!--START_SECTION:waka-->
 
 ```txt
-Text   1 hr 16 mins    ██████████████████████▒░░   89.64 %
-HTML   8 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.36 %
+Text   1 hr 16 mins    ███████████████████████▓░   94.26 %
+HTML   4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
 JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
