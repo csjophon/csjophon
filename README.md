@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-My name is Rich Wilds as known as r1childs.
-
 <img src="https://komarev.com/ghpvc/?username=JoryJoestar&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 
 ### Top-langs
